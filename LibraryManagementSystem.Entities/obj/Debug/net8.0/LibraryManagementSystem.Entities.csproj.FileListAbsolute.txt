@@ -1,0 +1,13 @@
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\bin\Debug\net8.0\LibraryManagementSystem.Entities.deps.json
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\bin\Debug\net8.0\LibraryManagementSystem.Entities.dll
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\bin\Debug\net8.0\LibraryManagementSystem.Entities.pdb
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.AssemblyInfo.cs
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.sourcelink.json
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.dll
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\refint\LibraryManagementSystem.Entities.dll
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\LibraryManagementSystem.Entities.pdb
+C:\Users\win 11\Desktop\MyProject\LMS\LibraryManagementSystem.Entities\obj\Debug\net8.0\ref\LibraryManagementSystem.Entities.dll
