@@ -18,8 +18,6 @@ namespace LibraryManagementSystem.DataAccess
         //    builder.ApplyConfigurationsFromAssembly(typeof(UserConfiguration).Assembly);
         //    base.OnModelCreating(builder);
         //}
-
-
         //public DbSet<User> Users { get; set; }
         //public DbSet<Author> Authors { get; set; }
         //public DbSet<Book> Books { get; set; }
